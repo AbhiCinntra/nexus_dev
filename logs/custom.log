@@ -1,0 +1,1775 @@
+INFO 2024-01-25 16:52:51,174 autoreload Watching for file changes with StatReloader
+INFO 2024-01-25 16:53:09,928 autoreload F:\python-projects\nexus_dev\nexus\nexus\settings.py changed, reloading.
+INFO 2024-01-25 16:53:10,917 autoreload Watching for file changes with StatReloader
+INFO 2024-01-25 16:53:28,409 autoreload F:\python-projects\nexus_dev\nexus\nexus\settings.py changed, reloading.
+INFO 2024-01-25 16:53:29,313 autoreload Watching for file changes with StatReloader
+INFO 2024-01-25 16:54:01,337 autoreload F:\python-projects\nexus_dev\nexus\Users\models.py changed, reloading.
+INFO 2024-01-25 16:54:02,134 autoreload Watching for file changes with StatReloader
+INFO 2024-01-25 16:54:16,766 autoreload F:\python-projects\nexus_dev\nexus\Users\models.py changed, reloading.
+INFO 2024-01-25 16:54:17,604 autoreload Watching for file changes with StatReloader
+INFO 2024-01-25 16:54:27,461 autoreload Watching for file changes with StatReloader
+INFO 2024-01-25 16:55:27,852 autoreload F:\python-projects\nexus_dev\nexus\nexus\settings.py changed, reloading.
+INFO 2024-01-25 16:55:28,750 autoreload Watching for file changes with StatReloader
+INFO 2024-01-25 19:05:30,481 autoreload F:\python-projects\nexus_dev\nexus\nexus\settings.py changed, reloading.
+INFO 2024-01-25 19:05:31,665 autoreload Watching for file changes with StatReloader
+INFO 2024-01-25 19:05:34,020 autoreload F:\python-projects\nexus_dev\nexus\nexus\settings.py changed, reloading.
+INFO 2024-01-25 19:05:34,866 autoreload Watching for file changes with StatReloader
+INFO 2024-01-25 19:05:57,864 autoreload F:\python-projects\nexus_dev\nexus\nexus\settings.py changed, reloading.
+INFO 2024-01-25 19:05:58,807 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 14:16:18,434 autoreload Watching for file changes with StatReloader
+WARNING 2024-02-01 14:17:21,480 log Not Found: /businesspartner/all
+WARNING 2024-02-01 14:17:21,481 basehttp "GET /businesspartner/all HTTP/1.1" 404 5180
+WARNING 2024-02-01 14:17:21,574 log Not Found: /favicon.ico
+WARNING 2024-02-01 14:17:21,575 basehttp "GET /favicon.ico HTTP/1.1" 404 5156
+WARNING 2024-02-01 14:17:26,607 log Not Found: /businesspartner/all
+WARNING 2024-02-01 14:17:26,609 basehttp "GET /businesspartner/all HTTP/1.1" 404 5180
+INFO 2024-02-01 14:17:35,774 basehttp "GET /cards/all HTTP/1.1" 200 5327
+INFO 2024-02-01 14:18:05,827 autoreload F:\python-projects\nexus_dev\nexus\nexus\settings.py changed, reloading.
+INFO 2024-02-01 14:18:06,783 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 14:18:33,206 basehttp "GET /cards/all HTTP/1.1" 200 5240
+INFO 2024-02-01 14:18:33,456 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 14:18:33,456 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 14:18:33,460 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 14:18:33,461 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 14:18:33,500 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 14:18:33,500 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 14:18:33,501 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 14:18:33,506 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO 2024-02-01 14:18:33,515 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 14:18:33,518 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 14:18:33,546 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+WARNING 2024-02-01 14:18:33,609 log Not Found: /favicon.ico
+WARNING 2024-02-01 14:18:33,610 basehttp "GET /favicon.ico HTTP/1.1" 404 5156
+WARNING 2024-02-01 14:24:38,562 log Method Not Allowed: /cards/create
+WARNING 2024-02-01 14:24:38,563 basehttp "GET /cards/create HTTP/1.1" 405 5611
+INFO 2024-02-01 14:24:57,174 basehttp "POST /cards/create HTTP/1.1" 200 5756
+INFO 2024-02-01 14:25:07,502 basehttp "POST /cards/create HTTP/1.1" 200 5625
+INFO 2024-02-01 14:25:10,001 basehttp "GET /cards/all HTTP/1.1" 200 6330
+INFO 2024-02-01 14:25:10,091 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 14:25:10,093 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 14:25:10,109 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 14:25:10,112 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 14:25:10,122 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 14:25:10,128 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 14:25:10,142 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 14:25:10,147 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 14:25:10,153 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 14:25:10,153 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 14:25:10,167 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+WARNING 2024-02-01 14:25:10,257 log Not Found: /favicon.ico
+WARNING 2024-02-01 14:25:10,258 basehttp "GET /favicon.ico HTTP/1.1" 404 5156
+WARNING 2024-02-01 14:25:22,691 log Method Not Allowed: /cards/update
+WARNING 2024-02-01 14:25:22,692 basehttp "GET /cards/update HTTP/1.1" 405 5611
+INFO 2024-02-01 14:28:23,293 autoreload F:\python-projects\nexus_dev\nexus\Cards\views.py changed, reloading.
+INFO 2024-02-01 14:28:25,749 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 14:34:54,231 autoreload F:\python-projects\nexus_dev\nexus\Cards\views.py changed, reloading.
+INFO 2024-02-01 14:34:56,241 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 14:35:03,693 autoreload F:\python-projects\nexus_dev\nexus\Cards\views.py changed, reloading.
+INFO 2024-02-01 14:35:06,341 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 14:35:15,097 autoreload F:\python-projects\nexus_dev\nexus\Cards\views.py changed, reloading.
+INFO 2024-02-01 14:35:16,620 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 14:36:21,283 autoreload F:\python-projects\nexus_dev\nexus\Cards\views.py changed, reloading.
+INFO 2024-02-01 14:36:23,045 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 14:36:45,802 autoreload F:\python-projects\nexus_dev\nexus\Cards\views.py changed, reloading.
+INFO 2024-02-01 14:36:48,423 autoreload Watching for file changes with StatReloader
+ERROR 2024-02-01 14:37:10,582 log Internal Server Error: /cards/update
+Traceback (most recent call last):
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "F:\python-projects\nexus_dev\nexus\Cards\views.py", line 141, in update_card
+    fatchId     = requestData['id']
+KeyError: 'id'
+ERROR 2024-02-01 14:37:10,591 basehttp "POST /cards/update HTTP/1.1" 500 96400
+WARNING 2024-02-01 14:37:21,837 log Method Not Allowed: /cards/update
+WARNING 2024-02-01 14:37:21,839 basehttp "GET /cards/update HTTP/1.1" 405 5611
+INFO 2024-02-01 14:37:22,087 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 14:37:22,091 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 14:37:22,092 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 14:37:22,097 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 14:37:22,097 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 14:37:22,097 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 14:37:22,103 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 14:37:22,104 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 14:37:22,105 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 14:37:22,106 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 14:37:22,110 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+WARNING 2024-02-01 14:37:22,180 log Not Found: /favicon.ico
+WARNING 2024-02-01 14:37:22,181 basehttp "GET /favicon.ico HTTP/1.1" 404 5156
+ERROR 2024-02-01 14:37:24,322 log Internal Server Error: /cards/update
+Traceback (most recent call last):
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "F:\python-projects\nexus_dev\nexus\Cards\views.py", line 141, in update_card
+    fatchId     = requestData['id']
+KeyError: 'id'
+ERROR 2024-02-01 14:37:24,326 basehttp "POST /cards/update HTTP/1.1" 500 96400
+WARNING 2024-02-01 14:37:54,169 log Method Not Allowed: /cards/update
+WARNING 2024-02-01 14:37:54,173 basehttp "GET /cards/update HTTP/1.1" 405 5611
+INFO 2024-02-01 14:37:54,263 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 14:37:54,265 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 14:37:54,266 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 14:37:54,267 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 14:37:54,289 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 14:37:54,293 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 14:37:54,297 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 14:37:54,300 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 14:37:54,300 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 14:37:54,301 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 14:37:54,321 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+WARNING 2024-02-01 14:37:54,415 log Not Found: /favicon.ico
+WARNING 2024-02-01 14:37:54,416 basehttp "GET /favicon.ico HTTP/1.1" 404 5156
+ERROR 2024-02-01 14:38:14,791 log Internal Server Error: /cards/update
+Traceback (most recent call last):
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "F:\python-projects\nexus_dev\nexus\Cards\views.py", line 141, in update_card
+    fatchId     = requestData['id']
+KeyError: 'id'
+ERROR 2024-02-01 14:38:14,796 basehttp "POST /cards/update HTTP/1.1" 500 96400
+WARNING 2024-02-01 14:38:16,200 log Method Not Allowed: /cards/update
+WARNING 2024-02-01 14:38:16,201 basehttp "GET /cards/update HTTP/1.1" 405 5611
+INFO 2024-02-01 14:38:16,267 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 14:38:16,268 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 14:38:16,269 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 14:38:16,273 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 14:38:16,284 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 14:38:16,284 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 14:38:16,287 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 14:38:16,289 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 14:38:16,289 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 14:38:16,290 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 14:38:16,309 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+WARNING 2024-02-01 14:38:16,368 log Not Found: /favicon.ico
+WARNING 2024-02-01 14:38:16,369 basehttp "GET /favicon.ico HTTP/1.1" 404 5156
+ERROR 2024-02-01 14:38:25,675 log Internal Server Error: /cards/update
+Traceback (most recent call last):
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "F:\python-projects\nexus_dev\nexus\Cards\views.py", line 141, in update_card
+    fatchId     = requestData['id']
+KeyError: 'id'
+ERROR 2024-02-01 14:38:25,680 basehttp "POST /cards/update HTTP/1.1" 500 96400
+WARNING 2024-02-01 14:38:26,900 log Method Not Allowed: /cards/update
+WARNING 2024-02-01 14:38:26,903 basehttp "GET /cards/update HTTP/1.1" 405 5611
+INFO 2024-02-01 14:38:26,990 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 14:38:27,012 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 14:38:27,036 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 14:38:27,040 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 14:38:27,046 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 14:38:27,046 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 14:38:27,053 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 14:38:27,055 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 14:38:27,056 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 14:38:27,061 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 14:38:27,063 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+WARNING 2024-02-01 14:38:27,158 log Not Found: /favicon.ico
+WARNING 2024-02-01 14:38:27,159 basehttp "GET /favicon.ico HTTP/1.1" 404 5156
+INFO 2024-02-01 14:38:59,161 autoreload F:\python-projects\nexus_dev\nexus\Cards\views.py changed, reloading.
+INFO 2024-02-01 14:39:01,036 autoreload Watching for file changes with StatReloader
+WARNING 2024-02-01 14:39:03,221 log Method Not Allowed: /cards/update
+WARNING 2024-02-01 14:39:03,222 basehttp "GET /cards/update HTTP/1.1" 405 5611
+INFO 2024-02-01 14:39:03,417 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 14:39:03,419 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 14:39:03,424 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 14:39:03,428 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 14:39:03,432 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 14:39:03,437 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 14:39:03,439 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 14:39:03,442 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 14:39:03,444 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 14:39:03,447 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 14:39:03,450 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+WARNING 2024-02-01 14:39:03,534 log Not Found: /favicon.ico
+WARNING 2024-02-01 14:39:03,535 basehttp "GET /favicon.ico HTTP/1.1" 404 5156
+INFO 2024-02-01 14:39:05,597 basehttp "POST /cards/update HTTP/1.1" 200 5625
+INFO 2024-02-01 14:39:19,798 basehttp "GET /cards/all HTTP/1.1" 200 6330
+INFO 2024-02-01 14:39:19,867 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 14:39:19,868 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 14:39:19,868 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 14:39:19,870 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 14:39:19,885 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 14:39:19,886 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 14:39:19,886 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 14:39:19,887 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 14:39:19,890 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 14:39:19,897 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 14:39:19,921 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO 2024-02-01 14:39:19,945 basehttp "GET /cards/all HTTP/1.1" 200 6330
+INFO 2024-02-01 14:39:19,983 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 14:39:19,999 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 14:39:20,000 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 14:39:20,001 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 14:39:20,003 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 14:39:20,003 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 14:39:20,015 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 14:39:20,016 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 14:39:20,017 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 14:39:20,017 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 14:39:20,034 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO 2024-02-01 14:39:20,070 basehttp "GET /cards/all HTTP/1.1" 200 6330
+WARNING 2024-02-01 14:39:20,105 log Not Found: /favicon.ico
+WARNING 2024-02-01 14:39:20,107 basehttp "GET /favicon.ico HTTP/1.1" 404 5156
+INFO 2024-02-01 14:39:20,141 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 14:39:20,142 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 14:39:20,143 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 14:39:20,146 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 14:39:20,157 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 14:39:20,158 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 14:39:20,161 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 14:39:20,162 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 14:39:20,163 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 14:39:20,164 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 14:39:20,180 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+WARNING 2024-02-01 14:39:20,239 log Not Found: /favicon.ico
+WARNING 2024-02-01 14:39:20,240 basehttp "GET /favicon.ico HTTP/1.1" 404 5156
+INFO 2024-02-01 14:39:25,051 basehttp "GET /cards/all HTTP/1.1" 200 6330
+INFO 2024-02-01 14:39:25,174 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 14:39:25,176 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 14:39:25,194 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 14:39:25,216 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 14:39:25,227 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 14:39:25,230 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 14:39:25,257 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 14:39:25,257 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 14:39:25,259 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 14:39:25,262 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 14:39:25,282 basehttp - Broken pipe from ('127.0.0.1', 50441)
+
+INFO 2024-02-01 14:39:25,285 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO 2024-02-01 14:39:25,324 basehttp "GET /cards/all HTTP/1.1" 200 6330
+WARNING 2024-02-01 14:39:25,364 log Not Found: /favicon.ico
+INFO 2024-02-01 14:39:25,365 basehttp - Broken pipe from ('127.0.0.1', 50443)
+
+INFO 2024-02-01 14:39:25,382 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 14:39:25,383 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 14:39:25,387 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 14:39:25,393 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 14:39:25,395 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 14:39:25,407 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 14:39:25,410 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 14:39:25,411 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 14:39:25,415 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 14:39:25,416 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 14:39:25,464 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO 2024-02-01 14:39:25,467 basehttp "GET /cards/all HTTP/1.1" 200 6330
+INFO 2024-02-01 14:39:25,540 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 14:39:25,543 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 14:39:25,561 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 14:39:25,563 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 14:39:25,563 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 14:39:25,564 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 14:39:25,639 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 14:39:25,640 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 14:39:25,644 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 14:39:25,647 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+WARNING 2024-02-01 14:39:25,650 log Not Found: /favicon.ico
+INFO 2024-02-01 14:39:25,656 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+WARNING 2024-02-01 14:39:25,660 basehttp "GET /favicon.ico HTTP/1.1" 404 5156
+INFO 2024-02-01 14:39:25,681 basehttp "GET /cards/all HTTP/1.1" 200 6330
+INFO 2024-02-01 14:39:25,741 basehttp "GET /cards/all HTTP/1.1" 200 6330
+WARNING 2024-02-01 14:39:25,748 log Not Found: /favicon.ico
+INFO 2024-02-01 14:39:25,761 basehttp - Broken pipe from ('127.0.0.1', 50442)
+
+INFO 2024-02-01 14:39:25,766 basehttp - Broken pipe from ('127.0.0.1', 50439)
+
+INFO 2024-02-01 14:39:25,767 basehttp - Broken pipe from ('127.0.0.1', 50440)
+
+INFO 2024-02-01 14:39:25,767 basehttp - Broken pipe from ('127.0.0.1', 50444)
+
+INFO 2024-02-01 14:39:25,773 basehttp - Broken pipe from ('127.0.0.1', 50474)
+
+INFO 2024-02-01 14:39:25,776 basehttp - Broken pipe from ('127.0.0.1', 50479)
+
+INFO 2024-02-01 14:39:25,776 basehttp - Broken pipe from ('127.0.0.1', 50475)
+
+INFO 2024-02-01 14:39:25,788 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 14:39:25,789 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 14:39:25,791 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 14:39:25,801 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 14:39:25,802 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 14:39:25,805 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 14:39:25,806 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 14:39:25,812 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 14:39:25,815 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 14:39:25,816 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 14:39:25,831 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO 2024-02-01 14:39:25,884 basehttp "GET /cards/all HTTP/1.1" 200 6330
+WARNING 2024-02-01 14:39:25,916 log Not Found: /favicon.ico
+INFO 2024-02-01 14:39:25,918 basehttp - Broken pipe from ('127.0.0.1', 50485)
+
+INFO 2024-02-01 14:39:25,931 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 14:39:25,932 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 14:39:25,932 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 14:39:25,934 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 14:39:25,947 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 14:39:25,948 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 14:39:25,948 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 14:39:25,950 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 14:39:25,951 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 14:39:25,951 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 14:39:26,008 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO 2024-02-01 14:39:26,008 basehttp "GET /cards/all HTTP/1.1" 200 6330
+INFO 2024-02-01 14:39:26,070 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 14:39:26,071 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 14:39:26,075 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 14:39:26,076 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 14:39:26,083 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 14:39:26,096 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 14:39:26,097 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 14:39:26,105 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+WARNING 2024-02-01 14:39:26,110 log Not Found: /favicon.ico
+INFO 2024-02-01 14:39:26,110 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 14:39:26,111 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+WARNING 2024-02-01 14:39:26,113 basehttp "GET /favicon.ico HTTP/1.1" 404 5156
+INFO 2024-02-01 14:39:26,147 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO 2024-02-01 14:39:26,147 basehttp "GET /cards/all HTTP/1.1" 200 6330
+INFO 2024-02-01 14:39:26,189 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 14:39:26,190 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 14:39:26,191 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 14:39:26,194 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 14:39:26,206 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 14:39:26,207 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 14:39:26,207 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 14:39:26,208 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 14:39:26,209 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 14:39:26,210 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 14:39:26,227 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+WARNING 2024-02-01 14:39:26,302 log Not Found: /favicon.ico
+WARNING 2024-02-01 14:39:26,304 basehttp "GET /favicon.ico HTTP/1.1" 404 5156
+INFO 2024-02-01 14:39:57,085 autoreload F:\python-projects\nexus_dev\nexus\Cards\views.py changed, reloading.
+INFO 2024-02-01 14:39:59,021 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 14:40:46,740 autoreload F:\python-projects\nexus_dev\nexus\Cards\views.py changed, reloading.
+INFO 2024-02-01 14:40:48,689 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 14:40:56,910 autoreload F:\python-projects\nexus_dev\nexus\Cards\views.py changed, reloading.
+INFO 2024-02-01 14:40:58,078 autoreload Watching for file changes with StatReloader
+WARNING 2024-02-01 14:40:59,799 log Method Not Allowed: /cards/update
+WARNING 2024-02-01 14:40:59,801 basehttp "GET /cards/update HTTP/1.1" 405 5611
+WARNING 2024-02-01 14:40:59,926 log Method Not Allowed: /cards/update
+WARNING 2024-02-01 14:40:59,927 basehttp "GET /cards/update HTTP/1.1" 405 5611
+WARNING 2024-02-01 14:41:00,010 log Method Not Allowed: /cards/update
+WARNING 2024-02-01 14:41:00,015 basehttp "GET /cards/update HTTP/1.1" 405 5611
+INFO 2024-02-01 14:41:00,275 basehttp - Broken pipe from ('127.0.0.1', 50509)
+
+INFO 2024-02-01 14:41:00,373 basehttp - Broken pipe from ('127.0.0.1', 50507)
+
+INFO 2024-02-01 14:41:00,388 basehttp - Broken pipe from ('127.0.0.1', 50510)
+
+INFO 2024-02-01 14:41:00,402 basehttp - Broken pipe from ('127.0.0.1', 50514)
+
+INFO 2024-02-01 14:41:00,429 basehttp - Broken pipe from ('127.0.0.1', 50513)
+
+INFO 2024-02-01 14:41:00,444 basehttp - Broken pipe from ('127.0.0.1', 50506)
+
+INFO 2024-02-01 14:41:00,484 basehttp - Broken pipe from ('127.0.0.1', 50511)
+
+INFO 2024-02-01 14:41:00,505 basehttp - Broken pipe from ('127.0.0.1', 50508)
+
+INFO 2024-02-01 14:41:00,557 basehttp - Broken pipe from ('127.0.0.1', 50517)
+
+INFO 2024-02-01 14:41:00,564 basehttp - Broken pipe from ('127.0.0.1', 50515)
+
+INFO 2024-02-01 14:41:00,568 basehttp - Broken pipe from ('127.0.0.1', 50516)
+
+INFO 2024-02-01 14:41:00,571 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 14:41:00,575 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 14:41:00,575 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 14:41:00,580 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 14:41:00,580 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 14:41:00,586 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 14:41:00,599 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 14:41:00,606 basehttp - Broken pipe from ('127.0.0.1', 50512)
+
+INFO 2024-02-01 14:41:00,608 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 14:41:00,609 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 14:41:00,611 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 14:41:00,626 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+WARNING 2024-02-01 14:41:00,710 log Not Found: /favicon.ico
+WARNING 2024-02-01 14:41:00,712 basehttp "GET /favicon.ico HTTP/1.1" 404 5156
+WARNING 2024-02-01 14:41:02,766 log Bad Request: /cards/update
+WARNING 2024-02-01 14:41:02,767 basehttp "POST /cards/update HTTP/1.1" 400 5643
+INFO 2024-02-01 14:43:23,638 autoreload F:\python-projects\nexus_dev\nexus\Cards\views.py changed, reloading.
+INFO 2024-02-01 14:43:24,800 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 14:44:08,331 autoreload F:\python-projects\nexus_dev\nexus\Cards\views.py changed, reloading.
+INFO 2024-02-01 14:44:10,173 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 14:44:21,803 autoreload F:\python-projects\nexus_dev\nexus\Cards\views.py changed, reloading.
+INFO 2024-02-01 14:44:24,021 autoreload Watching for file changes with StatReloader
+WARNING 2024-02-01 14:44:28,894 log Method Not Allowed: /cards/update
+WARNING 2024-02-01 14:44:28,896 basehttp "GET /cards/update HTTP/1.1" 405 5611
+INFO 2024-02-01 14:44:29,142 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 14:44:29,151 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 14:44:29,167 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 14:44:29,169 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 14:44:29,172 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 14:44:29,176 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 14:44:29,181 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 14:44:29,184 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 14:44:29,185 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 14:44:29,185 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+WARNING 2024-02-01 14:44:29,198 log Method Not Allowed: /cards/update
+INFO 2024-02-01 14:44:29,199 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+WARNING 2024-02-01 14:44:29,202 basehttp "GET /cards/update HTTP/1.1" 405 5611
+INFO 2024-02-01 14:44:29,230 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 14:44:29,241 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 14:44:29,242 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 14:44:29,243 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 14:44:29,243 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 14:44:29,244 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 14:44:29,254 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 14:44:29,254 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 14:44:29,255 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 14:44:29,255 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 14:44:29,269 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+WARNING 2024-02-01 14:44:29,337 log Not Found: /favicon.ico
+WARNING 2024-02-01 14:44:29,338 basehttp "GET /favicon.ico HTTP/1.1" 404 5156
+INFO 2024-02-01 14:44:31,658 basehttp "POST /cards/update HTTP/1.1" 200 5756
+INFO 2024-02-01 14:45:09,301 autoreload F:\python-projects\nexus_dev\nexus\Cards\views.py changed, reloading.
+INFO 2024-02-01 14:45:11,565 autoreload Watching for file changes with StatReloader
+WARNING 2024-02-01 14:45:15,299 log Method Not Allowed: /cards/update
+WARNING 2024-02-01 14:45:15,303 basehttp "GET /cards/update HTTP/1.1" 405 5611
+INFO 2024-02-01 14:45:15,552 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 14:45:15,556 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 14:45:15,556 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 14:45:15,563 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 14:45:15,563 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 14:45:15,564 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 14:45:15,570 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 14:45:15,571 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 14:45:15,574 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 14:45:15,574 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 14:45:15,586 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+WARNING 2024-02-01 14:45:15,669 log Not Found: /favicon.ico
+WARNING 2024-02-01 14:45:15,670 basehttp "GET /favicon.ico HTTP/1.1" 404 5156
+INFO 2024-02-01 14:45:17,833 basehttp "POST /cards/update HTTP/1.1" 200 5824
+INFO 2024-02-01 14:46:01,904 autoreload F:\python-projects\nexus_dev\nexus\Cards\views.py changed, reloading.
+INFO 2024-02-01 14:46:03,613 autoreload Watching for file changes with StatReloader
+WARNING 2024-02-01 14:46:04,536 log Method Not Allowed: /cards/update
+WARNING 2024-02-01 14:46:04,537 basehttp "GET /cards/update HTTP/1.1" 405 5611
+INFO 2024-02-01 14:46:04,753 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 14:46:04,772 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 14:46:04,783 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 14:46:04,785 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 14:46:04,788 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 14:46:04,793 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 14:46:04,802 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+WARNING 2024-02-01 14:46:04,808 log Method Not Allowed: /cards/update
+INFO 2024-02-01 14:46:04,809 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 14:46:04,812 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+WARNING 2024-02-01 14:46:04,813 basehttp "GET /cards/update HTTP/1.1" 405 5611
+INFO 2024-02-01 14:46:04,814 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 14:46:04,817 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 14:46:04,851 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 14:46:04,851 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 14:46:04,851 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 14:46:04,852 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 14:46:04,863 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 14:46:04,864 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 14:46:04,866 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 14:46:04,867 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 14:46:04,868 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 14:46:04,869 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 14:46:04,883 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+WARNING 2024-02-01 14:46:04,964 log Not Found: /favicon.ico
+WARNING 2024-02-01 14:46:04,965 basehttp "GET /favicon.ico HTTP/1.1" 404 5156
+INFO 2024-02-01 14:46:09,261 basehttp "POST /cards/update HTTP/1.1" 200 5671
+INFO 2024-02-01 14:46:41,597 autoreload F:\python-projects\nexus_dev\nexus\Cards\views.py changed, reloading.
+INFO 2024-02-01 14:46:43,408 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 14:46:46,128 autoreload F:\python-projects\nexus_dev\nexus\Cards\views.py changed, reloading.
+INFO 2024-02-01 14:46:47,915 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 14:46:56,381 autoreload F:\python-projects\nexus_dev\nexus\Cards\views.py changed, reloading.
+INFO 2024-02-01 14:46:57,634 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 14:47:00,295 autoreload F:\python-projects\nexus_dev\nexus\Cards\views.py changed, reloading.
+INFO 2024-02-01 14:47:01,373 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 14:47:04,015 autoreload F:\python-projects\nexus_dev\nexus\Cards\views.py changed, reloading.
+INFO 2024-02-01 14:47:05,153 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 14:47:14,042 autoreload F:\python-projects\nexus_dev\nexus\Cards\views.py changed, reloading.
+INFO 2024-02-01 14:47:16,170 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 14:47:19,019 autoreload F:\python-projects\nexus_dev\nexus\Cards\views.py changed, reloading.
+INFO 2024-02-01 14:47:20,882 autoreload Watching for file changes with StatReloader
+WARNING 2024-02-01 14:47:22,295 log Method Not Allowed: /cards/update
+WARNING 2024-02-01 14:47:22,297 basehttp "GET /cards/update HTTP/1.1" 405 5611
+INFO 2024-02-01 14:47:22,554 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 14:47:22,557 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 14:47:22,559 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 14:47:22,561 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 14:47:22,562 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 14:47:22,567 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 14:47:22,572 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 14:47:22,573 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 14:47:22,575 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 14:47:22,577 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 14:47:22,590 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+WARNING 2024-02-01 14:47:22,658 log Not Found: /favicon.ico
+WARNING 2024-02-01 14:47:22,659 basehttp "GET /favicon.ico HTTP/1.1" 404 5156
+INFO 2024-02-01 14:48:11,575 autoreload F:\python-projects\nexus_dev\nexus\Cards\views.py changed, reloading.
+INFO 2024-02-01 14:48:14,470 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 14:48:28,354 autoreload F:\python-projects\nexus_dev\nexus\Cards\views.py changed, reloading.
+INFO 2024-02-01 14:48:30,944 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 14:49:06,351 autoreload F:\python-projects\nexus_dev\nexus\Cards\views.py changed, reloading.
+INFO 2024-02-01 14:49:08,525 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 14:49:30,397 autoreload F:\python-projects\nexus_dev\nexus\Cards\views.py changed, reloading.
+INFO 2024-02-01 14:49:32,275 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 14:49:35,667 autoreload F:\python-projects\nexus_dev\nexus\Cards\views.py changed, reloading.
+INFO 2024-02-01 14:49:37,554 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 14:51:53,081 basehttp "POST /cards/update HTTP/1.1" 200 47
+INFO 2024-02-01 14:51:57,700 basehttp "GET /cards/all HTTP/1.1" 200 6340
+INFO 2024-02-01 14:51:57,958 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 14:51:57,962 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 14:51:57,965 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 14:51:57,970 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 14:51:57,976 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 14:51:57,978 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 14:51:57,979 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 14:51:57,982 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 14:51:57,991 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 14:51:57,993 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 14:51:58,001 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+WARNING 2024-02-01 14:51:58,086 log Not Found: /favicon.ico
+WARNING 2024-02-01 14:51:58,087 basehttp "GET /favicon.ico HTTP/1.1" 404 5156
+INFO 2024-02-01 14:51:58,403 basehttp "GET /cards/all HTTP/1.1" 200 6340
+INFO 2024-02-01 14:51:58,434 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 14:51:58,435 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 14:51:58,435 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 14:51:58,436 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 14:51:58,448 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 14:51:58,449 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 14:51:58,450 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 14:51:58,452 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 14:51:58,453 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 14:51:58,454 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 14:51:58,473 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+WARNING 2024-02-01 14:51:58,516 log Not Found: /favicon.ico
+WARNING 2024-02-01 14:51:58,517 basehttp "GET /favicon.ico HTTP/1.1" 404 5156
+INFO 2024-02-01 14:52:47,890 basehttp "POST /cards/update HTTP/1.1" 200 47
+INFO 2024-02-01 14:52:54,350 basehttp "GET /cards/all HTTP/1.1" 200 6340
+INFO 2024-02-01 14:52:54,421 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 14:52:54,423 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 14:52:54,424 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 14:52:54,425 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 14:52:54,444 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 14:52:54,445 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 14:52:54,450 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 14:52:54,451 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 14:52:54,452 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 14:52:54,452 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 14:52:54,474 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+WARNING 2024-02-01 14:52:54,551 log Not Found: /favicon.ico
+WARNING 2024-02-01 14:52:54,552 basehttp "GET /favicon.ico HTTP/1.1" 404 5156
+INFO 2024-02-01 14:52:57,558 basehttp "GET /cards/all HTTP/1.1" 200 6340
+INFO 2024-02-01 14:52:57,639 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 14:52:57,642 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 14:52:57,644 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 14:52:57,646 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 14:52:57,658 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 14:52:57,665 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 14:52:57,669 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 14:52:57,678 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 14:52:57,679 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 14:52:57,682 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 14:52:57,727 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO 2024-02-01 14:52:57,727 basehttp "GET /cards/all HTTP/1.1" 200 6340
+INFO 2024-02-01 14:52:57,772 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 14:52:57,772 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 14:52:57,773 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 14:52:57,773 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 14:52:57,776 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 14:52:57,781 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 14:52:57,783 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 14:52:57,793 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 14:52:57,793 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 14:52:57,795 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 14:52:57,803 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+WARNING 2024-02-01 14:52:57,874 log Not Found: /favicon.ico
+WARNING 2024-02-01 14:52:57,875 basehttp "GET /favicon.ico HTTP/1.1" 404 5156
+INFO 2024-02-01 14:52:58,111 basehttp "GET /cards/all HTTP/1.1" 200 6340
+INFO 2024-02-01 14:52:58,168 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 14:52:58,169 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 14:52:58,170 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 14:52:58,171 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 14:52:58,183 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 14:52:58,188 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 14:52:58,189 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 14:52:58,189 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 14:52:58,190 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 14:52:58,193 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 14:52:58,203 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+WARNING 2024-02-01 14:52:58,264 log Not Found: /favicon.ico
+WARNING 2024-02-01 14:52:58,265 basehttp "GET /favicon.ico HTTP/1.1" 404 5156
+INFO 2024-02-01 14:52:58,289 basehttp "GET /cards/all HTTP/1.1" 200 6340
+INFO 2024-02-01 14:52:58,320 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 14:52:58,321 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 14:52:58,323 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 14:52:58,324 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 14:52:58,334 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 14:52:58,337 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 14:52:58,338 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 14:52:58,339 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 14:52:58,339 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 14:52:58,343 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 14:52:58,363 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO 2024-02-01 14:52:58,503 basehttp "GET /cards/all HTTP/1.1" 200 6340
+INFO 2024-02-01 14:52:58,530 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 14:52:58,531 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 14:52:58,531 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 14:52:58,537 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 14:52:58,547 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 14:52:58,547 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 14:52:58,550 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 14:52:58,551 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 14:52:58,552 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 14:52:58,556 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 14:52:58,573 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+WARNING 2024-02-01 14:52:58,633 log Not Found: /favicon.ico
+WARNING 2024-02-01 14:52:58,636 basehttp "GET /favicon.ico HTTP/1.1" 404 5156
+INFO 2024-02-01 14:52:58,657 basehttp "GET /cards/all HTTP/1.1" 200 6340
+INFO 2024-02-01 14:52:58,687 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 14:52:58,688 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 14:52:58,689 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 14:52:58,691 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 14:52:58,702 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 14:52:58,702 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 14:52:58,705 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 14:52:58,707 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 14:52:58,708 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 14:52:58,708 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 14:52:58,724 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO 2024-02-01 14:52:59,151 basehttp "GET /cards/all HTTP/1.1" 200 6340
+INFO 2024-02-01 14:52:59,205 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 14:52:59,207 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 14:52:59,210 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 14:52:59,217 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 14:52:59,228 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 14:52:59,231 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 14:52:59,232 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 14:52:59,232 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 14:52:59,234 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 14:52:59,234 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 14:52:59,258 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+WARNING 2024-02-01 14:52:59,307 log Not Found: /favicon.ico
+WARNING 2024-02-01 14:52:59,309 basehttp "GET /favicon.ico HTTP/1.1" 404 5156
+INFO 2024-02-01 14:52:59,492 basehttp "GET /cards/all HTTP/1.1" 200 6340
+INFO 2024-02-01 14:52:59,530 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 14:52:59,531 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 14:52:59,532 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 14:52:59,535 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 14:52:59,549 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 14:52:59,553 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 14:52:59,553 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 14:52:59,554 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 14:52:59,554 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 14:52:59,556 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 14:52:59,582 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+WARNING 2024-02-01 14:52:59,633 log Not Found: /favicon.ico
+WARNING 2024-02-01 14:52:59,636 basehttp "GET /favicon.ico HTTP/1.1" 404 5156
+INFO 2024-02-01 14:52:59,763 basehttp "GET /cards/all HTTP/1.1" 200 6340
+INFO 2024-02-01 14:52:59,802 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 14:52:59,802 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 14:52:59,803 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 14:52:59,803 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 14:52:59,811 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 14:52:59,827 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 14:52:59,827 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 14:52:59,828 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 14:52:59,831 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 14:52:59,831 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 14:52:59,857 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+WARNING 2024-02-01 14:52:59,895 log Not Found: /favicon.ico
+WARNING 2024-02-01 14:52:59,896 basehttp "GET /favicon.ico HTTP/1.1" 404 5156
+INFO 2024-02-01 14:53:00,117 basehttp "GET /cards/all HTTP/1.1" 200 6340
+INFO 2024-02-01 14:53:00,168 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 14:53:00,187 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 14:53:00,187 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 14:53:00,189 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 14:53:00,190 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 14:53:00,191 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 14:53:00,204 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 14:53:00,205 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 14:53:00,210 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 14:53:00,211 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 14:53:00,220 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+WARNING 2024-02-01 14:53:00,274 log Not Found: /favicon.ico
+WARNING 2024-02-01 14:53:00,276 basehttp "GET /favicon.ico HTTP/1.1" 404 5156
+INFO 2024-02-01 14:53:00,327 basehttp "GET /cards/all HTTP/1.1" 200 6340
+INFO 2024-02-01 14:53:00,348 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 14:53:00,348 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 14:53:00,348 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 14:53:00,349 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 14:53:00,358 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 14:53:00,359 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 14:53:00,361 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 14:53:00,362 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 14:53:00,363 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 14:53:00,363 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 14:53:00,374 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+WARNING 2024-02-01 14:53:00,412 log Not Found: /favicon.ico
+WARNING 2024-02-01 14:53:00,414 basehttp "GET /favicon.ico HTTP/1.1" 404 5156
+INFO 2024-02-01 14:53:00,588 basehttp "GET /cards/all HTTP/1.1" 200 6340
+INFO 2024-02-01 14:53:00,607 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 14:53:00,608 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 14:53:00,608 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 14:53:00,612 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 14:53:00,617 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 14:53:00,619 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 14:53:00,620 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 14:53:00,621 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 14:53:00,622 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 14:53:00,622 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 14:53:00,639 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+WARNING 2024-02-01 14:53:00,680 log Not Found: /favicon.ico
+WARNING 2024-02-01 14:53:00,681 basehttp "GET /favicon.ico HTTP/1.1" 404 5156
+INFO 2024-02-01 14:53:00,952 basehttp "GET /cards/all HTTP/1.1" 200 6340
+INFO 2024-02-01 14:53:01,002 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 14:53:01,003 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 14:53:01,004 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 14:53:01,005 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 14:53:01,024 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 14:53:01,030 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 14:53:01,031 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 14:53:01,033 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 14:53:01,035 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 14:53:01,039 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 14:53:01,065 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+WARNING 2024-02-01 14:53:01,115 log Not Found: /favicon.ico
+WARNING 2024-02-01 14:53:01,116 basehttp "GET /favicon.ico HTTP/1.1" 404 5156
+INFO 2024-02-01 14:53:03,913 basehttp "GET /cards/all HTTP/1.1" 200 6340
+INFO 2024-02-01 14:53:04,008 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 14:53:04,009 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 14:53:04,010 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 14:53:04,027 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 14:53:04,029 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 14:53:04,048 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 14:53:04,051 basehttp "GET /cards/all HTTP/1.1" 200 6340
+INFO 2024-02-01 14:53:04,054 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 14:53:04,057 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 14:53:04,058 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 14:53:04,059 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 14:53:04,080 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 14:53:04,092 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 14:53:04,093 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 14:53:04,096 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 14:53:04,096 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 14:53:04,098 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 14:53:04,102 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 14:53:04,103 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 14:53:04,104 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 14:53:04,104 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 14:53:04,108 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO 2024-02-01 14:53:04,179 basehttp "GET /cards/all HTTP/1.1" 200 6340
+WARNING 2024-02-01 14:53:04,182 log Not Found: /favicon.ico
+WARNING 2024-02-01 14:53:04,182 basehttp "GET /favicon.ico HTTP/1.1" 404 5156
+INFO 2024-02-01 14:53:04,211 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 14:53:04,211 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 14:53:04,212 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 14:53:04,212 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 14:53:04,213 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 14:53:04,225 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 14:53:04,226 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 14:53:04,228 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 14:53:04,229 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 14:53:04,230 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 14:53:04,239 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+WARNING 2024-02-01 14:53:04,309 log Not Found: /favicon.ico
+WARNING 2024-02-01 14:53:04,311 basehttp "GET /favicon.ico HTTP/1.1" 404 5156
+INFO 2024-02-01 14:53:04,356 basehttp "GET /cards/all HTTP/1.1" 200 6340
+INFO 2024-02-01 14:53:04,381 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 14:53:04,381 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 14:53:04,382 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 14:53:04,382 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 14:53:04,393 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 14:53:04,396 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 14:53:04,396 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 14:53:04,397 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 14:53:04,399 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 14:53:04,399 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 14:53:04,415 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO 2024-02-01 14:53:04,475 basehttp "GET /cards/all HTTP/1.1" 200 6340
+WARNING 2024-02-01 14:53:04,497 log Not Found: /favicon.ico
+INFO 2024-02-01 14:53:04,498 basehttp - Broken pipe from ('127.0.0.1', 50628)
+
+INFO 2024-02-01 14:53:04,512 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 14:53:04,513 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 14:53:04,515 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 14:53:04,524 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 14:53:04,525 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 14:53:04,528 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 14:53:04,531 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 14:53:04,532 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 14:53:04,535 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 14:53:04,535 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 14:53:04,549 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+WARNING 2024-02-01 14:53:04,600 log Not Found: /favicon.ico
+WARNING 2024-02-01 14:53:04,601 basehttp "GET /favicon.ico HTTP/1.1" 404 5156
+INFO 2024-02-01 14:53:08,182 basehttp "POST /cards/update HTTP/1.1" 200 47
+INFO 2024-02-01 14:53:26,331 basehttp "POST /cards/update HTTP/1.1" 200 47
+INFO 2024-02-01 14:53:52,502 autoreload F:\python-projects\nexus_dev\nexus\Cards\views.py changed, reloading.
+INFO 2024-02-01 14:53:53,597 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 14:53:55,654 basehttp "POST /cards/update HTTP/1.1" 200 47
+INFO 2024-02-01 14:54:35,287 autoreload F:\python-projects\nexus_dev\nexus\Cards\views.py changed, reloading.
+INFO 2024-02-01 14:54:36,362 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 14:54:48,102 autoreload F:\python-projects\nexus_dev\nexus\Cards\views.py changed, reloading.
+INFO 2024-02-01 14:54:49,746 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 14:54:50,973 basehttp "POST /cards/update HTTP/1.1" 200 47
+INFO 2024-02-01 14:55:20,209 autoreload F:\python-projects\nexus_dev\nexus\Cards\views.py changed, reloading.
+INFO 2024-02-01 14:55:21,605 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 14:55:25,701 basehttp "POST /cards/update HTTP/1.1" 200 78
+INFO 2024-02-01 14:55:40,671 autoreload F:\python-projects\nexus_dev\nexus\Cards\views.py changed, reloading.
+INFO 2024-02-01 14:55:42,032 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 14:55:43,212 basehttp "POST /cards/update HTTP/1.1" 200 78
+INFO 2024-02-01 14:55:50,669 autoreload F:\python-projects\nexus_dev\nexus\Cards\views.py changed, reloading.
+INFO 2024-02-01 14:55:52,192 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 14:55:54,549 autoreload F:\python-projects\nexus_dev\nexus\Cards\views.py changed, reloading.
+INFO 2024-02-01 14:55:56,304 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 14:55:57,802 basehttp "POST /cards/update HTTP/1.1" 200 47
+INFO 2024-02-01 14:56:09,326 autoreload F:\python-projects\nexus_dev\nexus\Cards\views.py changed, reloading.
+INFO 2024-02-01 14:56:10,789 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 14:56:12,851 basehttp "POST /cards/update HTTP/1.1" 200 78
+INFO 2024-02-01 14:56:14,022 basehttp "POST /cards/update HTTP/1.1" 200 78
+INFO 2024-02-01 14:56:26,599 autoreload F:\python-projects\nexus_dev\nexus\Cards\views.py changed, reloading.
+INFO 2024-02-01 14:56:27,882 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 14:56:31,469 basehttp "POST /cards/update HTTP/1.1" 200 47
+INFO 2024-02-01 14:56:50,226 autoreload F:\python-projects\nexus_dev\nexus\Cards\views.py changed, reloading.
+INFO 2024-02-01 14:56:51,558 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 14:56:57,227 basehttp "GET /cards/all HTTP/1.1" 200 6380
+INFO 2024-02-01 14:56:57,510 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 14:56:57,513 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 14:56:57,515 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 14:56:57,522 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 14:56:57,523 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 14:56:57,523 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 14:56:57,524 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 14:56:57,530 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 14:56:57,533 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 14:56:57,533 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 14:56:57,542 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO 2024-02-01 14:56:57,591 basehttp "GET /cards/all HTTP/1.1" 200 6380
+WARNING 2024-02-01 14:56:57,616 log Not Found: /favicon.ico
+WARNING 2024-02-01 14:56:57,617 basehttp "GET /favicon.ico HTTP/1.1" 404 5156
+INFO 2024-02-01 14:56:57,636 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 14:56:57,637 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 14:56:57,637 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 14:56:57,638 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 14:56:57,643 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 14:56:57,647 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 14:56:57,647 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 14:56:57,648 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 14:56:57,649 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 14:56:57,650 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 14:56:57,669 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+WARNING 2024-02-01 14:56:57,700 log Not Found: /favicon.ico
+WARNING 2024-02-01 14:56:57,701 basehttp "GET /favicon.ico HTTP/1.1" 404 5156
+INFO 2024-02-01 14:57:00,716 autoreload F:\python-projects\nexus_dev\nexus\Cards\views.py changed, reloading.
+INFO 2024-02-01 14:57:03,421 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 14:57:23,922 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-01 14:57:26,042 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 14:57:31,467 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-01 14:57:32,802 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 14:58:21,453 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-01 14:58:23,511 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 14:58:31,430 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-01 14:58:32,982 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 15:01:22,032 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-01 15:01:24,089 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 15:01:28,142 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-01 15:01:30,607 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 15:01:38,621 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-01 15:01:40,247 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 15:01:43,717 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-01 15:01:45,719 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 15:02:11,056 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-01 15:02:13,200 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 15:02:23,720 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-01 15:02:25,254 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 15:02:28,925 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-01 15:02:30,404 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 15:03:31,563 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-01 15:03:32,675 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 15:03:55,312 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-01 15:03:56,996 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 15:04:03,280 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-01 15:04:04,714 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 15:04:20,002 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-01 15:04:21,872 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 15:04:24,996 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-01 15:04:27,083 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 15:05:29,905 basehttp "GET /contacts/all HTTP/1.1" 200 5279
+INFO 2024-02-01 15:06:04,229 basehttp "POST /contacts/create HTTP/1.1" 200 47
+INFO 2024-02-01 15:06:07,874 basehttp "GET /contacts/all HTTP/1.1" 200 6478
+INFO 2024-02-01 15:06:08,163 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 15:06:08,165 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 15:06:08,168 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 15:06:08,171 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 15:06:08,177 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 15:06:08,181 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 15:06:08,181 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 15:06:08,182 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 15:06:08,184 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 15:06:08,185 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 15:06:08,196 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+WARNING 2024-02-01 15:06:08,275 log Not Found: /favicon.ico
+WARNING 2024-02-01 15:06:08,276 basehttp "GET /favicon.ico HTTP/1.1" 404 5156
+INFO 2024-02-01 15:06:33,532 basehttp "POST /contacts/update HTTP/1.1" 200 47
+INFO 2024-02-01 15:06:36,144 basehttp "GET /contacts/all HTTP/1.1" 200 6484
+INFO 2024-02-01 15:06:36,203 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 15:06:36,205 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 15:06:36,209 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 15:06:36,212 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 15:06:36,232 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 15:06:36,236 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 15:06:36,237 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 15:06:36,238 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 15:06:36,240 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 15:06:36,241 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 15:06:36,266 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+WARNING 2024-02-01 15:06:36,312 log Not Found: /favicon.ico
+WARNING 2024-02-01 15:06:36,313 basehttp "GET /favicon.ico HTTP/1.1" 404 5156
+INFO 2024-02-01 15:06:37,237 basehttp "GET /contacts/all HTTP/1.1" 200 6484
+INFO 2024-02-01 15:06:37,285 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 15:06:37,286 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 15:06:37,289 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 15:06:37,293 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 15:06:37,309 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 15:06:37,311 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 15:06:37,315 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 15:06:37,316 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 15:06:37,318 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 15:06:37,318 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 15:06:37,339 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+WARNING 2024-02-01 15:06:37,412 log Not Found: /favicon.ico
+WARNING 2024-02-01 15:06:37,413 basehttp "GET /favicon.ico HTTP/1.1" 404 5156
+INFO 2024-02-01 15:06:37,762 basehttp "GET /contacts/all HTTP/1.1" 200 6484
+INFO 2024-02-01 15:06:37,833 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 15:06:37,834 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 15:06:37,835 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 15:06:37,836 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 15:06:37,840 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 15:06:37,855 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 15:06:37,857 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 15:06:37,857 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 15:06:37,858 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 15:06:37,861 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 15:06:37,872 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+WARNING 2024-02-01 15:06:37,921 log Not Found: /favicon.ico
+WARNING 2024-02-01 15:06:37,922 basehttp "GET /favicon.ico HTTP/1.1" 404 5156
+INFO 2024-02-01 15:06:38,370 basehttp "GET /contacts/all HTTP/1.1" 200 6484
+INFO 2024-02-01 15:06:38,422 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 15:06:38,423 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 15:06:38,425 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 15:06:38,430 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 15:06:38,447 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 15:06:38,451 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 15:06:38,452 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 15:06:38,454 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 15:06:38,456 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 15:06:38,457 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 15:06:38,474 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+WARNING 2024-02-01 15:06:38,544 log Not Found: /favicon.ico
+WARNING 2024-02-01 15:06:38,545 basehttp "GET /favicon.ico HTTP/1.1" 404 5156
+INFO 2024-02-01 15:06:38,673 basehttp "GET /contacts/all HTTP/1.1" 200 6484
+INFO 2024-02-01 15:06:38,746 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 15:06:38,747 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 15:06:38,748 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 15:06:38,749 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 15:06:38,773 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 15:06:38,778 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 15:06:38,785 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 15:06:38,788 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 15:06:38,790 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 15:06:38,793 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 15:06:38,811 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+WARNING 2024-02-01 15:06:38,871 log Not Found: /favicon.ico
+WARNING 2024-02-01 15:06:38,873 basehttp "GET /favicon.ico HTTP/1.1" 404 5156
+INFO 2024-02-01 15:06:38,921 basehttp "GET /contacts/all HTTP/1.1" 200 6484
+INFO 2024-02-01 15:06:38,951 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 15:06:38,951 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 15:06:38,952 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 15:06:38,952 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 15:06:38,964 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 15:06:38,965 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 15:06:38,968 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 15:06:38,969 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 15:06:38,970 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 15:06:38,971 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 15:06:38,985 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO 2024-02-01 15:06:39,135 basehttp "GET /contacts/all HTTP/1.1" 200 6484
+INFO 2024-02-01 15:06:39,159 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 15:06:39,160 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 15:06:39,161 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 15:06:39,162 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 15:06:39,174 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 15:06:39,178 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 15:06:39,179 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 15:06:39,181 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 15:06:39,181 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 15:06:39,182 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 15:06:39,213 basehttp "GET /contacts/all HTTP/1.1" 200 6484
+INFO 2024-02-01 15:06:39,215 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO 2024-02-01 15:06:39,252 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-02-01 15:06:39,253 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2024-02-01 15:06:39,254 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO 2024-02-01 15:06:39,255 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-02-01 15:06:39,261 basehttp "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2024-02-01 15:06:39,266 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-02-01 15:06:39,269 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO 2024-02-01 15:06:39,270 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-02-01 15:06:39,270 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-02-01 15:06:39,271 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-02-01 15:06:39,284 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+WARNING 2024-02-01 15:06:39,333 log Not Found: /favicon.ico
+WARNING 2024-02-01 15:06:39,335 basehttp "GET /favicon.ico HTTP/1.1" 404 5156
+INFO 2024-02-01 15:21:24,338 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-01 15:21:27,134 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 16:43:38,145 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-01 16:43:39,013 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 16:43:47,743 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-01 16:43:48,653 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 16:43:53,007 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-01 16:43:53,887 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 17:25:18,543 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-01 17:25:20,449 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 17:26:55,342 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-01 17:26:57,799 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 17:28:00,726 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-01 17:28:02,282 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 17:28:08,609 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-01 17:28:11,105 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 17:28:30,850 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-01 17:28:33,608 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 17:29:04,698 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-01 17:29:07,040 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 17:30:10,170 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-01 17:30:12,237 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 17:30:22,922 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-01 17:30:24,367 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 18:05:26,026 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-01 18:05:26,905 autoreload Watching for file changes with StatReloader
+INFO 2024-02-01 18:06:48,191 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-01 18:06:49,096 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 11:07:35,008 autoreload Watching for file changes with StatReloader
+WARNING 2024-02-02 11:07:44,975 log Method Not Allowed: /contacts/all
+WARNING 2024-02-02 11:07:44,976 basehttp "POST /contacts/all HTTP/1.1" 405 41
+INFO 2024-02-02 11:07:49,488 basehttp "GET /contacts/all HTTP/1.1" 200 93
+INFO 2024-02-02 11:08:24,940 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 11:08:25,794 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 11:09:39,075 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 11:09:39,839 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 11:09:41,938 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 11:09:42,736 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 11:09:45,917 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 11:09:46,742 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 11:10:40,828 basehttp "GET /contacts/all HTTP/1.1" 200 565
+INFO 2024-02-02 11:10:46,490 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 11:10:47,319 autoreload Watching for file changes with StatReloader
+WARNING 2024-02-02 11:12:00,386 log Method Not Allowed: /contacts/update
+WARNING 2024-02-02 11:12:00,387 basehttp "GET /contacts/update HTTP/1.1" 405 40
+INFO 2024-02-02 11:12:29,215 basehttp "POST /contacts/update HTTP/1.1" 200 142
+INFO 2024-02-02 13:04:44,945 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 13:04:46,338 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 13:05:04,888 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 13:05:05,753 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 13:05:17,682 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 13:05:18,477 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 13:05:20,639 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 13:05:21,455 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 13:05:23,590 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 13:05:24,429 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 13:05:47,641 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 13:05:48,473 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 13:06:58,251 basehttp "POST /contacts/create HTTP/1.1" 200 64
+INFO 2024-02-02 13:07:05,767 basehttp "POST /contacts/create HTTP/1.1" 200 142
+INFO 2024-02-02 13:11:39,048 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 13:11:39,919 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 13:12:42,867 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 13:12:43,744 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 13:13:52,940 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 13:13:53,756 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 13:14:57,548 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 13:14:58,367 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 13:15:00,560 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 13:15:01,377 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 13:15:05,720 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 13:15:06,517 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 13:15:08,668 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 13:15:09,459 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 13:15:11,634 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 13:15:12,399 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 13:15:15,717 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 13:15:16,520 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 13:15:22,008 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 13:15:22,811 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 13:15:26,038 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 13:15:26,839 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 13:15:28,990 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 13:15:29,884 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 13:15:33,145 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 13:15:33,979 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 13:15:36,428 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 13:15:37,323 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 13:15:38,415 basehttp "POST /contacts/create HTTP/1.1" 200 144
+INFO 2024-02-02 13:16:32,486 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 13:16:33,371 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 13:17:05,931 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 13:17:06,764 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 13:17:10,260 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 13:17:11,138 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 13:17:13,318 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 13:17:14,107 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 13:17:23,844 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 13:17:24,735 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 13:17:27,004 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 13:17:27,820 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 13:17:29,948 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 13:17:30,744 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 13:17:32,887 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 13:17:33,666 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 13:17:41,204 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 13:17:42,010 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 13:19:45,948 autoreload F:\python-projects\nexus_dev\nexus\Contacts\serializers.py changed, reloading.
+INFO 2024-02-02 13:19:46,786 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 13:19:54,468 autoreload F:\python-projects\nexus_dev\nexus\Contacts\serializers.py changed, reloading.
+INFO 2024-02-02 13:19:55,360 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 13:19:58,616 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 13:19:59,658 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 13:20:01,969 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 13:20:02,913 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 13:20:06,541 basehttp "POST /contacts/create HTTP/1.1" 200 91
+INFO 2024-02-02 13:20:17,701 autoreload F:\python-projects\nexus_dev\nexus\Contacts\serializers.py changed, reloading.
+INFO 2024-02-02 13:20:18,577 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 13:20:21,438 basehttp "POST /contacts/create HTTP/1.1" 200 105
+INFO 2024-02-02 13:20:22,669 basehttp "POST /contacts/create HTTP/1.1" 200 64
+INFO 2024-02-02 13:20:23,971 basehttp "POST /contacts/create HTTP/1.1" 200 64
+INFO 2024-02-02 13:21:03,942 basehttp "POST /contacts/create HTTP/1.1" 200 105
+INFO 2024-02-02 13:21:27,186 autoreload F:\python-projects\nexus_dev\nexus\Contacts\serializers.py changed, reloading.
+INFO 2024-02-02 13:21:28,228 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 13:21:30,515 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 13:21:31,320 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 13:21:34,557 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 13:21:35,549 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 13:21:38,805 basehttp "POST /contacts/create HTTP/1.1" 200 64
+ERROR 2024-02-02 13:21:46,206 log Internal Server Error: /contacts/create
+Traceback (most recent call last):
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\fields\__init__.py", line 1988, in get_prep_value
+    return int(value)
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'tuple'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "F:\python-projects\nexus_dev\nexus\Contacts\views.py", line 57, in create_contact
+    contactObj.Tags.add(obj)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\fields\related_descriptors.py", line 1048, in add
+    self._add_items(
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\fields\related_descriptors.py", line 1263, in _add_items
+    target_ids = self._get_target_ids(target_field_name, objs)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\fields\related_descriptors.py", line 1197, in _get_target_ids
+    target_ids.add(target_field.get_prep_value(obj))
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\fields\related.py", line 1132, in get_prep_value
+    return self.target_field.get_prep_value(value)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\fields\__init__.py", line 1990, in get_prep_value
+    raise e.__class__(
+TypeError: Field 'id' expected a number but got (<Tag: Tag object (1)>, False).
+ERROR 2024-02-02 13:21:46,216 basehttp "POST /contacts/create HTTP/1.1" 500 125540
+INFO 2024-02-02 13:27:18,536 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 13:27:19,365 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:14:21,804 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 14:14:22,717 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:14:25,036 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 14:14:25,967 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:15:24,534 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 14:15:25,479 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:15:27,228 basehttp "POST /contacts/create HTTP/1.1" 200 64
+ERROR 2024-02-02 14:15:35,834 log Internal Server Error: /contacts/create
+Traceback (most recent call last):
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "F:\python-projects\nexus_dev\nexus\Contacts\views.py", line 57, in create_contact
+    contactObj.Tags.add(obj.id)
+AttributeError: 'tuple' object has no attribute 'id'
+ERROR 2024-02-02 14:15:35,840 basehttp "POST /contacts/create HTTP/1.1" 500 98954
+INFO 2024-02-02 14:16:01,839 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 14:16:02,658 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:16:04,833 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 14:16:05,638 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:16:07,906 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 14:16:08,837 autoreload Watching for file changes with StatReloader
+ERROR 2024-02-02 14:16:19,088 log Internal Server Error: /contacts/create
+Traceback (most recent call last):
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "F:\python-projects\nexus_dev\nexus\Contacts\views.py", line 58, in create_contact
+    contactObj.Tags.add(obj.id)
+AttributeError: 'tuple' object has no attribute 'id'
+ERROR 2024-02-02 14:16:19,096 basehttp "POST /contacts/create HTTP/1.1" 500 98780
+INFO 2024-02-02 14:17:26,405 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 14:17:27,228 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:17:30,539 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 14:17:31,317 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:17:34,220 basehttp "POST /contacts/create HTTP/1.1" 200 64
+INFO 2024-02-02 14:17:37,693 basehttp "POST /contacts/create HTTP/1.1" 200 47
+INFO 2024-02-02 14:19:09,963 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 14:19:10,778 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:19:12,971 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 14:19:13,765 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:19:15,939 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 14:19:16,763 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:19:22,240 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 14:19:23,016 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:19:25,152 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 14:19:25,925 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:19:45,310 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 14:19:46,122 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:19:48,370 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 14:19:49,191 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:19:51,420 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 14:19:52,247 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:19:56,609 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 14:19:57,445 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:25:03,350 basehttp "POST /contacts/create HTTP/1.1" 200 64
+INFO 2024-02-02 14:25:34,951 basehttp "POST /contacts/create HTTP/1.1" 200 47
+INFO 2024-02-02 14:25:51,326 basehttp "GET /contacts/all HTTP/1.1" 200 520
+INFO 2024-02-02 14:26:34,421 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 14:26:35,268 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:27:35,004 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 14:27:35,952 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:27:47,817 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 14:27:48,632 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:27:50,828 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 14:27:51,595 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:28:01,450 basehttp "GET /contacts/all HTTP/1.1" 200 520
+INFO 2024-02-02 14:28:02,592 basehttp "GET /contacts/all HTTP/1.1" 200 520
+INFO 2024-02-02 14:28:03,513 basehttp "GET /contacts/all HTTP/1.1" 200 520
+INFO 2024-02-02 14:28:04,504 basehttp "GET /contacts/all HTTP/1.1" 200 520
+INFO 2024-02-02 14:28:05,361 basehttp "GET /contacts/all HTTP/1.1" 200 520
+INFO 2024-02-02 14:30:55,952 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 14:30:56,766 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:31:07,554 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 14:31:08,447 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:32:16,583 autoreload F:\python-projects\nexus_dev\nexus\Contacts\serializers.py changed, reloading.
+INFO 2024-02-02 14:32:17,519 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:32:24,182 autoreload F:\python-projects\nexus_dev\nexus\Contacts\serializers.py changed, reloading.
+INFO 2024-02-02 14:32:25,139 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:32:27,567 autoreload F:\python-projects\nexus_dev\nexus\Contacts\serializers.py changed, reloading.
+INFO 2024-02-02 14:32:28,550 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:32:29,416 basehttp "GET /contacts/all HTTP/1.1" 200 1284
+INFO 2024-02-02 14:35:36,829 autoreload F:\python-projects\nexus_dev\nexus\Contacts\serializers.py changed, reloading.
+INFO 2024-02-02 14:35:37,634 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:35:40,572 basehttp "GET /contacts/all HTTP/1.1" 200 948
+INFO 2024-02-02 14:45:21,024 autoreload F:\python-projects\nexus_dev\nexus\Contacts\serializers.py changed, reloading.
+INFO 2024-02-02 14:45:21,885 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:46:25,749 autoreload F:\python-projects\nexus_dev\nexus\Contacts\serializers.py changed, reloading.
+INFO 2024-02-02 14:46:26,526 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:46:31,248 basehttp "GET /contacts/all HTTP/1.1" 200 100
+INFO 2024-02-02 14:48:07,594 autoreload F:\python-projects\nexus_dev\nexus\Contacts\serializers.py changed, reloading.
+INFO 2024-02-02 14:48:08,397 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:48:10,549 autoreload F:\python-projects\nexus_dev\nexus\Contacts\serializers.py changed, reloading.
+INFO 2024-02-02 14:48:11,329 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:48:13,479 autoreload F:\python-projects\nexus_dev\nexus\Contacts\serializers.py changed, reloading.
+INFO 2024-02-02 14:48:14,514 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:48:16,171 basehttp "GET /contacts/all HTTP/1.1" 200 77
+INFO 2024-02-02 14:49:30,380 autoreload F:\python-projects\nexus_dev\nexus\Contacts\serializers.py changed, reloading.
+INFO 2024-02-02 14:49:31,230 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:49:33,433 autoreload F:\python-projects\nexus_dev\nexus\Contacts\serializers.py changed, reloading.
+INFO 2024-02-02 14:49:34,349 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:49:35,213 basehttp "GET /contacts/all HTTP/1.1" 200 562
+INFO 2024-02-02 14:50:23,178 autoreload F:\python-projects\nexus_dev\nexus\Contacts\serializers.py changed, reloading.
+INFO 2024-02-02 14:50:23,984 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:50:30,465 autoreload F:\python-projects\nexus_dev\nexus\Contacts\serializers.py changed, reloading.
+INFO 2024-02-02 14:50:31,370 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:50:32,142 basehttp "GET /contacts/all HTTP/1.1" 200 562
+INFO 2024-02-02 14:50:41,279 autoreload F:\python-projects\nexus_dev\nexus\Contacts\serializers.py changed, reloading.
+INFO 2024-02-02 14:50:42,072 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:50:49,645 autoreload F:\python-projects\nexus_dev\nexus\Contacts\serializers.py changed, reloading.
+INFO 2024-02-02 14:50:50,439 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:51:52,084 autoreload F:\python-projects\nexus_dev\nexus\Contacts\serializers.py changed, reloading.
+INFO 2024-02-02 14:51:52,867 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:51:56,121 autoreload F:\python-projects\nexus_dev\nexus\Contacts\serializers.py changed, reloading.
+INFO 2024-02-02 14:51:57,027 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:51:57,764 basehttp "GET /contacts/all HTTP/1.1" 200 562
+INFO 2024-02-02 14:52:12,233 autoreload F:\python-projects\nexus_dev\nexus\Contacts\serializers.py changed, reloading.
+INFO 2024-02-02 14:52:13,070 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:52:16,339 autoreload F:\python-projects\nexus_dev\nexus\Contacts\serializers.py changed, reloading.
+INFO 2024-02-02 14:52:17,225 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:52:19,438 basehttp "GET /contacts/all HTTP/1.1" 200 95
+INFO 2024-02-02 14:52:31,736 autoreload F:\python-projects\nexus_dev\nexus\Contacts\serializers.py changed, reloading.
+INFO 2024-02-02 14:52:32,778 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:52:33,996 basehttp "GET /contacts/all HTTP/1.1" 200 532
+INFO 2024-02-02 14:53:23,513 autoreload F:\python-projects\nexus_dev\nexus\Contacts\serializers.py changed, reloading.
+INFO 2024-02-02 14:53:24,295 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:53:26,506 autoreload F:\python-projects\nexus_dev\nexus\Contacts\serializers.py changed, reloading.
+INFO 2024-02-02 14:53:27,590 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:53:29,710 basehttp "GET /contacts/all HTTP/1.1" 200 532
+INFO 2024-02-02 14:53:32,225 autoreload F:\python-projects\nexus_dev\nexus\Contacts\serializers.py changed, reloading.
+INFO 2024-02-02 14:53:33,212 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:54:01,643 basehttp "POST /contacts/update HTTP/1.1" 200 47
+INFO 2024-02-02 14:54:05,337 basehttp "GET /contacts/all HTTP/1.1" 200 532
+INFO 2024-02-02 14:54:07,778 basehttp "GET /contacts/all HTTP/1.1" 200 532
+INFO 2024-02-02 14:54:24,856 autoreload F:\python-projects\nexus_dev\nexus\Contacts\serializers.py changed, reloading.
+INFO 2024-02-02 14:54:25,702 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:54:38,619 autoreload F:\python-projects\nexus_dev\nexus\Contacts\serializers.py changed, reloading.
+INFO 2024-02-02 14:54:39,435 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:54:41,664 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 14:54:42,544 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:54:44,869 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 14:54:45,688 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:56:10,898 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 14:56:11,942 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:56:31,476 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 14:56:32,421 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:56:37,981 basehttp "GET /contacts/all HTTP/1.1" 200 532
+INFO 2024-02-02 14:56:41,298 basehttp "POST /contacts/update HTTP/1.1" 200 80
+INFO 2024-02-02 14:58:55,041 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 14:58:55,864 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:59:02,402 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 14:59:03,204 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:59:05,440 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 14:59:06,256 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:59:08,641 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 14:59:09,605 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 14:59:10,763 basehttp "POST /contacts/update HTTP/1.1" 200 47
+INFO 2024-02-02 15:00:32,090 basehttp "POST /contacts/update HTTP/1.1" 200 98
+INFO 2024-02-02 15:00:36,456 basehttp "POST /contacts/update HTTP/1.1" 200 47
+INFO 2024-02-02 15:00:46,128 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 15:00:46,920 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:01:40,818 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 15:01:41,646 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:03:00,264 basehttp "POST /contacts/create HTTP/1.1" 200 47
+INFO 2024-02-02 15:03:03,141 basehttp "GET /contacts/all HTTP/1.1" 200 1027
+WARNING 2024-02-02 15:04:08,458 log Method Not Allowed: /contacts/delete
+WARNING 2024-02-02 15:04:08,459 basehttp "GET /contacts/delete HTTP/1.1" 405 40
+WARNING 2024-02-02 15:04:13,827 log Method Not Allowed: /contacts/delete
+WARNING 2024-02-02 15:04:13,828 basehttp "GET /contacts/delete HTTP/1.1" 405 40
+WARNING 2024-02-02 15:04:14,983 log Method Not Allowed: /contacts/delete
+WARNING 2024-02-02 15:04:14,984 basehttp "GET /contacts/delete HTTP/1.1" 405 40
+INFO 2024-02-02 15:04:17,505 basehttp "POST /contacts/delete HTTP/1.1" 200 65
+INFO 2024-02-02 15:04:21,759 basehttp "GET /contacts/all HTTP/1.1" 200 539
+INFO 2024-02-02 15:21:18,446 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:21:19,285 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:21:21,457 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:21:22,263 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:21:24,446 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:21:25,271 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:22:24,657 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:22:25,513 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:22:27,668 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:22:28,438 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:22:35,960 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:22:36,785 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:23:47,764 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:23:48,614 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:24:02,620 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:24:03,419 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:24:05,561 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:24:06,342 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:24:09,520 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:24:10,308 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:24:12,487 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:24:13,257 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:24:20,830 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:24:21,627 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:24:23,740 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:24:24,517 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:24:26,696 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:24:27,503 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:30:15,445 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:30:16,277 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:30:27,114 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:30:27,918 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:30:30,042 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:30:30,803 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:31:57,272 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:31:58,115 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:32:01,332 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:32:02,111 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:32:04,253 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:32:05,082 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:32:07,308 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:32:08,101 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:32:10,288 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:32:11,083 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:33:12,625 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:33:13,418 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:33:19,849 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:33:20,651 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:34:02,626 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:34:03,411 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:34:06,681 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:34:07,464 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:34:09,572 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:34:10,339 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:34:21,111 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:34:22,142 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:38:37,084 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:38:37,943 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:38:40,087 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:38:40,890 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:39:43,317 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:39:44,113 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:39:46,281 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:39:47,076 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:39:49,216 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:39:50,045 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:39:57,566 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:39:58,389 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:40:02,769 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:40:03,570 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:40:41,308 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:40:42,110 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:40:51,830 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:40:52,612 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:40:56,965 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:40:57,726 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:41:16,005 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:41:16,826 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:41:21,150 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:41:21,995 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:42:08,370 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:42:09,157 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:42:11,301 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:42:12,142 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:42:19,908 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:42:20,727 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:42:53,018 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:42:53,926 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:43:09,165 autoreload F:\python-projects\nexus_dev\nexus\Contacts\serializers.py changed, reloading.
+INFO 2024-02-02 15:43:09,933 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:43:12,131 autoreload F:\python-projects\nexus_dev\nexus\Contacts\serializers.py changed, reloading.
+INFO 2024-02-02 15:43:12,974 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:43:28,799 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:43:29,581 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:43:31,370 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:43:32,221 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:43:39,469 autoreload F:\python-projects\nexus_dev\nexus\Contacts\serializers.py changed, reloading.
+INFO 2024-02-02 15:43:40,296 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:45:21,797 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:45:22,623 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:45:30,451 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:45:31,277 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:46:10,098 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:46:10,899 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:46:13,079 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:46:13,866 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:46:15,987 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:46:16,756 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:46:18,905 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:46:19,674 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:46:26,226 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:46:27,041 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:46:29,172 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:46:29,998 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:46:34,271 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:46:35,064 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:46:38,265 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:46:39,043 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:46:47,666 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:46:48,474 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:46:50,630 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:46:51,549 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:49:15,734 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 15:49:16,587 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:49:23,177 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 15:49:24,037 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:49:28,417 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 15:49:29,247 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:49:35,756 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 15:49:36,551 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:50:02,571 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 15:50:03,376 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:50:05,553 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 15:50:06,351 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:50:08,611 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 15:50:09,514 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:50:12,726 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 15:50:13,515 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:50:15,659 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 15:50:16,458 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:50:18,652 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 15:50:19,442 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:50:21,632 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 15:50:22,409 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:51:51,716 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:51:52,563 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:52:05,633 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:52:06,434 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:52:08,229 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:52:09,041 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:54:46,716 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:54:47,498 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:55:01,103 autoreload F:\python-projects\nexus_dev\nexus\Contacts\serializers.py changed, reloading.
+INFO 2024-02-02 15:55:01,911 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:55:59,476 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:56:00,357 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:56:27,920 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:56:28,689 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:56:31,519 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:56:32,405 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:56:37,572 autoreload F:\python-projects\nexus_dev\nexus\Contacts\serializers.py changed, reloading.
+INFO 2024-02-02 15:56:38,346 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:56:42,605 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 15:56:43,421 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:56:45,589 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 15:56:46,430 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:56:55,094 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:56:56,062 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:56:58,331 autoreload F:\python-projects\nexus_dev\nexus\Contacts\urls.py changed, reloading.
+INFO 2024-02-02 15:56:59,158 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:57:21,767 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 15:57:22,565 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:57:33,386 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 15:57:34,192 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:57:46,118 autoreload F:\python-projects\nexus_dev\nexus\Contacts\serializers.py changed, reloading.
+INFO 2024-02-02 15:57:46,909 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:58:10,541 autoreload F:\python-projects\nexus_dev\nexus\Contacts\serializers.py changed, reloading.
+INFO 2024-02-02 15:58:11,346 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:58:16,664 autoreload F:\python-projects\nexus_dev\nexus\Contacts\serializers.py changed, reloading.
+INFO 2024-02-02 15:58:17,422 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:58:19,972 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 15:58:20,861 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:59:01,930 autoreload F:\python-projects\nexus_dev\nexus\Contacts\serializers.py changed, reloading.
+INFO 2024-02-02 15:59:02,823 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:59:04,991 autoreload F:\python-projects\nexus_dev\nexus\Contacts\serializers.py changed, reloading.
+INFO 2024-02-02 15:59:05,770 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:59:07,924 autoreload F:\python-projects\nexus_dev\nexus\Contacts\serializers.py changed, reloading.
+INFO 2024-02-02 15:59:08,693 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:59:16,204 autoreload F:\python-projects\nexus_dev\nexus\Contacts\serializers.py changed, reloading.
+INFO 2024-02-02 15:59:16,976 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:59:19,147 autoreload F:\python-projects\nexus_dev\nexus\Contacts\serializers.py changed, reloading.
+INFO 2024-02-02 15:59:19,929 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:59:23,122 autoreload F:\python-projects\nexus_dev\nexus\Contacts\serializers.py changed, reloading.
+INFO 2024-02-02 15:59:23,888 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:59:32,490 autoreload F:\python-projects\nexus_dev\nexus\Contacts\serializers.py changed, reloading.
+INFO 2024-02-02 15:59:33,249 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:59:35,393 autoreload F:\python-projects\nexus_dev\nexus\Contacts\serializers.py changed, reloading.
+INFO 2024-02-02 15:59:36,173 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:59:39,379 autoreload F:\python-projects\nexus_dev\nexus\Contacts\serializers.py changed, reloading.
+INFO 2024-02-02 15:59:40,147 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 15:59:50,933 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 15:59:51,801 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 16:00:51,235 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 16:00:52,105 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 16:00:58,606 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 16:00:59,435 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 16:02:00,374 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 16:02:01,284 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 16:03:06,220 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 16:03:07,033 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 16:03:09,223 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 16:03:10,118 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 16:03:55,638 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 16:03:56,419 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 16:05:45,356 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 16:05:46,151 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 16:05:51,589 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 16:05:52,494 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 16:06:53,179 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 16:06:53,973 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 16:07:40,389 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 16:07:41,201 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 16:07:43,441 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 16:07:44,268 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 16:07:46,419 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 16:07:47,209 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 16:08:01,248 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 16:08:02,048 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 16:08:05,250 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 16:08:06,030 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 16:08:08,277 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 16:08:09,103 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 16:08:11,363 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 16:08:12,169 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 16:08:14,342 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 16:08:15,124 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 16:08:17,364 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 16:08:18,168 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 16:08:20,367 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 16:08:21,167 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 16:08:23,333 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 16:08:24,109 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 16:08:33,790 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 16:08:34,631 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 16:08:36,843 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 16:08:37,654 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 16:08:41,962 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 16:08:42,775 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 16:08:44,918 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 16:08:45,708 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 16:09:37,459 autoreload F:\python-projects\nexus_dev\nexus\Contacts\urls.py changed, reloading.
+INFO 2024-02-02 16:09:38,254 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 16:09:40,419 autoreload F:\python-projects\nexus_dev\nexus\Contacts\urls.py changed, reloading.
+INFO 2024-02-02 16:09:41,246 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 16:11:06,412 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 16:11:07,215 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 16:11:09,511 autoreload F:\python-projects\nexus_dev\nexus\Contacts\urls.py changed, reloading.
+INFO 2024-02-02 16:11:10,341 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 16:11:12,605 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 16:11:13,371 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 16:11:22,016 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 16:11:22,852 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 16:11:25,007 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 16:11:25,833 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 16:11:59,031 basehttp "POST /contacts/remarks/create HTTP/1.1" 200 159
+INFO 2024-02-02 16:12:33,263 autoreload F:\python-projects\nexus_dev\nexus\Contacts\serializers.py changed, reloading.
+INFO 2024-02-02 16:12:34,182 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 16:12:36,208 basehttp "POST /contacts/remarks/create HTTP/1.1" 200 47
+WARNING 2024-02-02 16:12:43,536 log Method Not Allowed: /contacts/remarks/all
+WARNING 2024-02-02 16:12:43,537 basehttp "GET /contacts/remarks/all HTTP/1.1" 405 40
+INFO 2024-02-02 16:13:13,968 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 16:13:14,789 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 16:13:17,045 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 16:13:17,897 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 16:13:28,279 basehttp "POST /contacts/remarks/all HTTP/1.1" 200 107
+INFO 2024-02-02 16:13:37,027 basehttp "POST /contacts/remarks/all HTTP/1.1" 200 47
+INFO 2024-02-02 16:14:11,456 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 16:14:12,466 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 16:14:13,982 basehttp "POST /contacts/remarks/all HTTP/1.1" 200 194
+INFO 2024-02-02 16:14:20,190 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 16:14:21,181 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 16:14:22,370 basehttp "POST /contacts/remarks/all HTTP/1.1" 200 192
+INFO 2024-02-02 16:15:27,259 basehttp "POST /contacts/remarks/all HTTP/1.1" 200 192
+INFO 2024-02-02 16:15:47,512 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 16:15:48,576 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 16:16:35,673 basehttp "POST /contacts/remarks/create HTTP/1.1" 200 47
+INFO 2024-02-02 16:16:38,673 basehttp "POST /contacts/remarks/create HTTP/1.1" 200 47
+INFO 2024-02-02 16:16:42,710 basehttp "POST /contacts/remarks/create HTTP/1.1" 200 47
+INFO 2024-02-02 16:16:45,270 basehttp "POST /contacts/remarks/all HTTP/1.1" 200 648
+INFO 2024-02-02 16:16:53,293 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 16:16:54,089 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 16:21:23,101 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 16:21:23,925 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 16:45:26,145 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 16:45:26,947 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 16:45:29,140 autoreload F:\python-projects\nexus_dev\nexus\Contacts\views.py changed, reloading.
+INFO 2024-02-02 16:45:29,910 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 16:51:00,660 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 16:51:01,473 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 17:57:02,478 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 17:57:03,447 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 17:57:05,669 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 17:57:06,544 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 17:57:48,803 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 17:57:49,587 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 18:05:37,110 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 18:05:37,945 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 18:07:14,843 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 18:07:15,664 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 18:08:35,487 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 18:08:36,319 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 18:08:50,319 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 18:08:51,167 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 18:08:54,380 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 18:08:55,180 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 18:30:19,236 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 18:30:20,083 autoreload Watching for file changes with StatReloader
+INFO 2024-02-02 18:30:22,331 autoreload F:\python-projects\nexus_dev\nexus\Contacts\models.py changed, reloading.
+INFO 2024-02-02 18:30:23,182 autoreload Watching for file changes with StatReloader
